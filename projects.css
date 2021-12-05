@@ -13,12 +13,19 @@ a:hover{
     width: 100%;
     height: 5em;
     align-items: center;
+    position: fixed;
 }
 li{
     padding-right: 6em;
 }
 .image11{
     margin:3em;
+}
+.footer{
+    height: 20vh;
+    background-image: linear-gradient(to right, rgba(131, 61, 196, 0.61) , rgb(179, 66, 245)) ;
+   
+    justify-content: space-around;
 }
 
     
