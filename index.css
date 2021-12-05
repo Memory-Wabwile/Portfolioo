@@ -19,17 +19,15 @@ li{
     padding-right: 6em;
 }
 .top{
-    
-    background: url("images/image1.jpeg")-50% 1000px no-repeat,url("images/coder2.jpg")50% 1000px no-repeat;
-    /* background-image: 
-    background-size: ;
+    background: url("images/image1.jpeg");
+    background-size: 50% 1000px;
     background-repeat: no-repeat;
-    background-position: right; */
+    background-position: right;
      height:100vh;
 }
-.top{
-    
-    background-size: 50% 1000px;
+.bluh{
+    background-image: url("images/coder2.jpg");
+    background-size: 100% 1000px;
     background-repeat: no-repeat;
     background-position: left;
 }
