@@ -1,5 +1,5 @@
 # Portfolio
-#### {This ismyportfolio that includes the various tasks that I have done and websites that I have made}, {5th Dec, 2021}
+#### {My portfolio that includes the various tasks that I have done and websites that I have made}, {5th Dec, 2021}
 
 #### By *{Wabwile Memory}*
 ## Description
