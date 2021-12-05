@@ -18,15 +18,17 @@ li{
     padding-right: 6em;
 }
 .top{
-    background-image: url("images/image1.jpeg");
-    background-size: 100% 900px;
-    background-position: center;
+    background: url("images/image1.jpeg");
+    background-size: 50% 900px;
+    background-repeat: no-repeat;
+    background-position: right;
      height:100vh;
 }
 .content>h1>marquee{
     scroll-behavior: smooth;
 }
 .footer{
-    background-color: black;
     height: 20vh;
+    background-image: linear-gradient(to right, rgba(131, 61, 196, 0.61) , rgb(179, 66, 245)) ;
+   
 }

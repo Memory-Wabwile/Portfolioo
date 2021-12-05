@@ -17,3 +17,7 @@ a:hover{
 li{
     padding-right: 6em;
 }
+.footer{
+    background-image: linear-gradient(to right, red , yellow);
+    height: 20vh;
+}
