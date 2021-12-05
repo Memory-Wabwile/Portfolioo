@@ -22,5 +22,7 @@ li{
     background-size: 100% 900px;
     background-position: center;
      height:100vh;
-    
+}
+.content>h1>marquee{
+    scrolldelay:"50";
 }
