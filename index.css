@@ -24,5 +24,9 @@ li{
      height:100vh;
 }
 .content>h1>marquee{
-    scrolldelay:"50";
+    scroll-behavior: smooth;
+}
+.footer{
+    background-color: black;
+    height: 20vh;
 }
