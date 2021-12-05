@@ -20,7 +20,7 @@ li{
 }
 .top{
     background: url("images/image1.jpeg");
-    background-size: 50% 900px;
+    background-size: 100% 1000px;
     background-repeat: no-repeat;
     background-position: right;
      height:100vh;
